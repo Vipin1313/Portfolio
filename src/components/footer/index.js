@@ -1,8 +1,10 @@
 import React from 'react';
+import "./footer.css";
+
 function Footer() {
     return (
       <div className="footer">
-        this is footer
+        Made with ❤️ by Vipin Kumar
       </div>
     );
   }

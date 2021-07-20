@@ -8,6 +8,7 @@ function Header() {
 
     return (
       <div className="header">
+        <img src={require('../../assets/vipin.png').default} alt="logo" className="display-pic"></img>
         <div className="logo"> Vipin Kumar </div>
         <div className="menu">
             <div className="web-menu">

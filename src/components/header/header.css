@@ -23,9 +23,13 @@
 }
 .logo {
     display: flex;
-    font-size: 36px;
-    color: blueviolet;
+    font-size: 25px;
+    color: black;
     font-weight: 800;
+    margin-left: 20px;
+}
+.display-pic {
+    height: 50px;
 }
 @media only screen and (max-width: 720px){
     .mobile-menu{
