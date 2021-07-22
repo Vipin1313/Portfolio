@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.6968c2b4.chunk.css",
-    "main.js": "/Portfolio/static/js/main.899897cd.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.899897cd.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.4b6210de.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.4b6210de.js.map",
+    "main.css": "/Portfolio/static/css/main.2717602b.chunk.css",
+    "main.js": "/Portfolio/static/js/main.71aac357.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.71aac357.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.6c0dd0d5.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.6c0dd0d5.js.map",
     "static/js/2.2ef5e8a3.chunk.js": "/Portfolio/static/js/2.2ef5e8a3.chunk.js",
     "static/js/2.2ef5e8a3.chunk.js.map": "/Portfolio/static/js/2.2ef5e8a3.chunk.js.map",
-    "static/js/3.f64ec234.chunk.js": "/Portfolio/static/js/3.f64ec234.chunk.js",
-    "static/js/3.f64ec234.chunk.js.map": "/Portfolio/static/js/3.f64ec234.chunk.js.map",
+    "static/js/3.e0367694.chunk.js": "/Portfolio/static/js/3.e0367694.chunk.js",
+    "static/js/3.e0367694.chunk.js.map": "/Portfolio/static/js/3.e0367694.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "static/css/main.6968c2b4.chunk.css.map": "/Portfolio/static/css/main.6968c2b4.chunk.css.map",
+    "static/css/main.2717602b.chunk.css.map": "/Portfolio/static/css/main.2717602b.chunk.css.map",
     "static/js/2.2ef5e8a3.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.2ef5e8a3.chunk.js.LICENSE.txt",
     "static/media/GeeksforGeeks.png": "/Portfolio/static/media/GeeksforGeeks.3a794187.png",
     "static/media/Resume_Vipin.pdf": "/Portfolio/static/media/Resume_Vipin.e3158fc0.pdf",
@@ -21,6 +21,7 @@
     "static/media/hackerrank.jfif": "/Portfolio/static/media/hackerrank.c44e8b8d.jfif",
     "static/media/instagram.png": "/Portfolio/static/media/instagram.e719d8b2.png",
     "static/media/leetCode.png": "/Portfolio/static/media/leetCode.c79f333b.png",
+    "static/media/mypic.png": "/Portfolio/static/media/mypic.0e128e55.png",
     "static/media/pep-logo.png": "/Portfolio/static/media/pep-logo.c64b0d67.png",
     "static/media/sortapp.png": "/Portfolio/static/media/sortapp.8b718eb5.png",
     "static/media/telegram.png": "/Portfolio/static/media/telegram.e9722f26.png",
@@ -29,9 +30,9 @@
     "static/media/zira.png": "/Portfolio/static/media/zira.ee2fb99e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b6210de.js",
+    "static/js/runtime-main.6c0dd0d5.js",
     "static/js/2.2ef5e8a3.chunk.js",
-    "static/css/main.6968c2b4.chunk.css",
-    "static/js/main.899897cd.chunk.js"
+    "static/css/main.2717602b.chunk.css",
+    "static/js/main.71aac357.chunk.js"
   ]
 }
