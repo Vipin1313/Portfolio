@@ -11,7 +11,7 @@ function Contact() {
                 <div className="contact-left">
                     <p>I am an aspiring programmer who enjoys solving challenging problems. I have strong technical skills and an academic background in Information Technology engineering. My passion lies in participating in solving real-world problems. And I use Mern Stack for Development Purpose.
 
-                        <br /> <br />In my graduate studies, I learned many technical courses which include data structure and algorithms, object oriented programming, DBMS etc.
+                        <br /> <br />In my graduate studies, I learnt many technical courses which include data structure and algorithms, object oriented programming, DBMS etc.
 
                         <br />
                         <br />Skills-
@@ -23,13 +23,21 @@ function Contact() {
                         <br />i love💖 Problem Solving✍</p>
                     <p>I'm graduating in 2022 and I'm interested in a full-time Software Developer , Front-End Developer or other technical profiles as per my skills. Please feel free to get in touch with me on any of the platforms.</p>
                     <PersonalContact />
-                </div>
-                <div className="download">
+                    <br />
+                    <div className="download">
                     <a download href={require('../../../assets/Resume_Vipin.pdf').default}>
                         <i class="fi-rr-download dowload-icon"></i>
                         Download Resume
                     </a>
                 </div>
+                </div>
+                {/* <div className="download">
+                    <a download href={require('../../../assets/Resume_Vipin.pdf').default}>
+                        <i class="fi-rr-download dowload-icon"></i>
+                        Download Resume
+                    </a>
+                </div> */}
+                <img src={require('../../../assets/mypic.png').default} className="mypic" />
             </div>
         </div>
     )

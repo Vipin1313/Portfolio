@@ -20,8 +20,6 @@
     text-align: left;
 }
 .download{
-    background-color: aquamarine;
-    padding: 8px 16px;
     font-size: 24px;
     display: flex;
     justify-content: center;
@@ -29,12 +27,24 @@
     border-radius: 6px;
 }
 .download a{
+    font-size: 24px;
     text-decoration: none;
     color: black;
+    background-color: #7fffd4;
+    padding: 8px 16px;
+    border-radius: 6px;
+}
+.mypic {
+    /* background-color: honeydew; */
+    padding: 3px 3px;
+    height: 650px;
 }
 @media only screen and (max-width: 720px){
+    .mypic {
+        height: 0px;
+    }
     .contact-container{
-        flex-direction: column;
+        flex-direction: row;
         justify-content: center;
         align-items: center;
     }
@@ -42,6 +52,9 @@
         max-width: 100%;
         font-size: 16px;
         margin-bottom: 12px;
+    }
+    .download a{
+        font-size: 16px;
     }
     .download{
         font-size: 16px;
